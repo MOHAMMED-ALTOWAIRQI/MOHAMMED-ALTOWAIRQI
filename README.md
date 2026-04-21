@@ -8,7 +8,7 @@ I specialize in building intelligent systems with a focus on Computer Vision and
 
 ---
 
-### =Skills
+### Skills
 
 * **Programming:** Python, Java, SQL, C, C++, HTML.
 * **AI & Machine Learning:** Computer Vision (OpenCV), Data Analysis, ML Algorithms.
