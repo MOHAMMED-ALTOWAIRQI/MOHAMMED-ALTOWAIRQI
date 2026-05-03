@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammed Altowairqi 👋
+# Hi there, I'm Mohammed Altowairqi 
 
 ###  Artificial Intelligence Student @ IAU
 I am an Artificial Intelligence student at **Imam Abdulrahman Bin Faisal University**.
